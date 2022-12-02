@@ -1,10 +1,10 @@
 Asal,Tujuan,Jarak,Waktu,KonfirmasiCovid
 Puskesmas,Puskesmas,0,0,0
-Puskesmas,SerdangWetan,5.2,11,340
-Puskesmas,Palasari,4.4,16,169
-Puskesmas,Rancagong,4.1,11,294
-Puskesmas,Legok,2.3,7,732
-Puskesmas,Babakan,0.02,1,368
+Puskesmas,SerdangWetan,5.2,11,0
+Puskesmas,Palasari,4.4,16,0
+Puskesmas,Rancagong,4.1,11,0
+Puskesmas,Legok,2.3,7,0
+Puskesmas,Babakan,0.02,1,0
 SerdangWetan,Puskesmas,5.3,11,0
 SerdangWetan,SerdangWetan,0,0,0
 SerdangWetan,Palasari,4.7,13,0.497058824
